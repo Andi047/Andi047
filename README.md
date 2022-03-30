@@ -1,21 +1,24 @@
 ## Logging in as andi047@github ...
 
-### :~$ whoami
+```sh
+:~$ whoami
 
-* Computer science student
+- Computer science student
 
-### :~$ interests
 
-* Linux-OS's and news around Linux
-* FOSS software
-* Automated setups for popular Linux OS's
-* Web frontend development
+:~$ interests
 
-### :~$ skills
+- Linux-OS's and news around Linux
+- FOSS software
+- Automated setups for popular Linux OS's
+- Web frontend development
 
-* Bash-Scripting
-* Knowledge in using Fedora & Debian-based OS's
-* Long time macOS user
+
+:~$ skills
+
+- Bash-Scripting
+- Knowledge in using Fedora & Debian-based OS's
+```
 
 ---
 
