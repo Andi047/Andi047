@@ -9,7 +9,7 @@
 :~$ interests
 
 - Linux-OS's and news around Linux
-- FOSS software
+- FOSS software (especially KDE)
 - Automated setups for popular Linux OS's
 - Web frontend development
 
