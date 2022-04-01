@@ -37,7 +37,7 @@
 * HTML, CSS, JavaScript, PHP
 * JSON, NodeJS, Ajax
 * Python, XML, YAML
-* Java
+* Java, C++
 
 ---
 
