@@ -18,6 +18,7 @@
 
 - Bash-Scripting
 - Knowledge in using Fedora & Debian-based OS's
+- Experience in using Apple's macOS
 ```
 
 ---
