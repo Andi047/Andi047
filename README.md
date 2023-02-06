@@ -11,7 +11,6 @@
 - Linux-OS's and news around Linux
 - FOSS software (especially KDE)
 - Automated setups for popular Linux OS's
-- Web frontend development
 
 
 :~$ skills
@@ -33,12 +32,19 @@
 
 ---
 
-### Coding experiences
+### Languages I got in touch with
 
 * HTML, CSS, JavaScript, PHP
 * JSON, NodeJS, Ajax
-* Python, XML, YAML
-* Java, C++
+* XML, YAML
+
+---
+
+### Major Experiences
+
+* Java
+* C, C++
+* Python
 
 ---
 
