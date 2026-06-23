@@ -3,14 +3,15 @@
 ```sh
 :~$ whoami
 
-- Computer science student
+Computer science student
 
 
 :~$ interests
 
-- Linux-OS's and news around Linux
-- FOSS software (especially KDE)
-- Automated setups for popular Linux OS's
+Linux-OS's and news around Linux
+FOSS software (especially KDE)
+Automated setups for popular Linux OS's
+Retro Computing (e.g. PowerPC Macs)
 
 
 :~$ skills
@@ -25,7 +26,7 @@
 ### Linux OS's I've used as desktop OS
 
 * Fedora (GNOME & KDE Spin)
-* Ubuntu (Plain)
+* Ubuntu (Plain), Kubuntu
 * Debian Stable
 * KDE Neon
 * Pop!_OS
@@ -45,6 +46,7 @@
 * Java
 * C, C++
 * Python
+* Bash-Scripting
 
 ---
 
@@ -53,3 +55,4 @@
 * [x] Writing Setup-scripts for Fedora & KDE Neon
 * [ ] Creating a Bash-script based OS with CLI-Apps
 * [ ] Working on a fake "example" Web presence
+* [ ] A bash based compiler frontend
