@@ -3,22 +3,22 @@
 ```sh
 :~$ whoami
 
-Computer science student
+Computer science student at HSBI
 
 
 :~$ interests
 
-Linux-OS's and news around Linux
-FOSS software (especially KDE)
-Automated setups for popular Linux OS's
-Retro Computing (e.g. PowerPC Macs)
+- Linux operating systems and news around Linux
+- FOSS software (especially KDE)
+- Retro Computing (PowerPC Macs, IBM ThinkPads)
+- Old operating systems (Windows 98, XP / Mac OS 9)
 
 
 :~$ skills
 
 - Bash-Scripting
-- Knowledge in using Fedora & Debian-based OS's
-- Experience in using Apple's macOS
+- Knowledge in using Fedora & Debian-based operating systems
+- Experience in using Apple macOS
 ```
 
 ---
